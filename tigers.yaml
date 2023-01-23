@@ -13,3 +13,4 @@ members:
 - Park
 
 fetch: this
+signed: yes
